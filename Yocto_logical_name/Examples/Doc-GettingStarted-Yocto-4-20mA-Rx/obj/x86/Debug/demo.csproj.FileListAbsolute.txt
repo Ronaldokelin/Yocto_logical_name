@@ -1,0 +1,8 @@
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-4-20mA-Rx\bin\Debug\amd64\yapi.dll
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-4-20mA-Rx\bin\Debug\yapi.dll
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-4-20mA-Rx\bin\Debug\Doc-GettingStarted-Yocto-4-20mA-Rx.exe
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-4-20mA-Rx\bin\Debug\Doc-GettingStarted-Yocto-4-20mA-Rx.pdb
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-4-20mA-Rx\obj\x86\Debug\demo.csproj.AssemblyReference.cache
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-4-20mA-Rx\obj\x86\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-4-20mA-Rx\obj\x86\Debug\Doc-GettingStarted-Yocto-4-20mA-Rx.exe
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-4-20mA-Rx\obj\x86\Debug\Doc-GettingStarted-Yocto-4-20mA-Rx.pdb

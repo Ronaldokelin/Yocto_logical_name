@@ -1,0 +1,8 @@
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-Bridge\bin\Debug\amd64\yapi.dll
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-Bridge\bin\Debug\yapi.dll
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-Bridge\bin\Debug\Doc-GettingStarted-Yocto-Bridge.exe
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-Bridge\bin\Debug\Doc-GettingStarted-Yocto-Bridge.pdb
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-Bridge\obj\x86\Debug\demo.csproj.AssemblyReference.cache
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-Bridge\obj\x86\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-Bridge\obj\x86\Debug\Doc-GettingStarted-Yocto-Bridge.exe
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-Bridge\obj\x86\Debug\Doc-GettingStarted-Yocto-Bridge.pdb

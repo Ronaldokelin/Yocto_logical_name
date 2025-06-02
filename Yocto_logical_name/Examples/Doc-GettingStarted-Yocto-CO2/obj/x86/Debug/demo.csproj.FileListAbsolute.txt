@@ -1,0 +1,8 @@
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-CO2\bin\Debug\amd64\yapi.dll
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-CO2\bin\Debug\yapi.dll
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-CO2\bin\Debug\Doc-GettingStarted-Yocto-CO2.exe
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-CO2\bin\Debug\Doc-GettingStarted-Yocto-CO2.pdb
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-CO2\obj\x86\Debug\demo.csproj.AssemblyReference.cache
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-CO2\obj\x86\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-CO2\obj\x86\Debug\Doc-GettingStarted-Yocto-CO2.exe
+C:\Developer\Yocto_logical_name\Yocto_logical_name\Examples\Doc-GettingStarted-Yocto-CO2\obj\x86\Debug\Doc-GettingStarted-Yocto-CO2.pdb
